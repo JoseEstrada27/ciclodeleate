@@ -1,0 +1,13 @@
+body {
+  background-color: black;
+  color: white;
+}
+.box {
+  width: 100%;
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 30%;
+}
